@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/pavan-rk-5423842b3" title="LinkedIn" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://x.com/Pavan_shetty_14?t=K9Z_j7SDjBybSR3u3JO29A&s=09" title="Twitter / X" target="_blank">
+  <a href="https://x.com/Pavan_shetty_14" title="Twitter / X" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/pavan_shetty_14" title="Instagram" target="_blank">
