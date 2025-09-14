@@ -48,7 +48,7 @@
   <a href="https://instagram.com/pavan_shetty_14" title="Instagram" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://github.com/pavanpava" title="GitHub" target="_blank">
+  <a href="https://github.com/pavanshetty14" title="GitHub" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>  
