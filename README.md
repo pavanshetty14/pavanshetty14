@@ -35,7 +35,22 @@
 
 ## 🌐 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-rk-5423842b3)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pavanrk2004@gmail.com)  
+<p align="center">
+  <a href="mailto:pavanrk2004@gmail.com" title="Email" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pavan-rk-5423842b3" title="LinkedIn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/Pavan_shetty_14?t=K9Z_j7SDjBybSR3u3JO29A&s=09" title="Twitter / X" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/pavan_shetty_14" title="Instagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/pavanpava" title="GitHub" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>  
 
 ---
