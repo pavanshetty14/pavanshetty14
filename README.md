@@ -14,7 +14,10 @@
 ## 🛠 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,git,github,vscode,pycharm,eclipse" />  
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&height=20" />
+  <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white&height=20" />
+  <img src="https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white&height=20" />
 </p>
 
 ---
