@@ -1,11 +1,13 @@
 # Hi 👋, I'm Pavan R K  
 
 ## 👨‍💻 About Me  
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🎓 BE Graduate in Computer Science  
 - 💻 Passionate about Web Development & Full Stack Technologies  
 - 🌱 Currently learning *Next.js, TypeScript & Advanced React*  
 - 🚀 Goal: Build impactful projects & contribute to open source  
+
 
 ---
 
